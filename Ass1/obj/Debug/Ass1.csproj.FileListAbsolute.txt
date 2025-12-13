@@ -1,0 +1,12 @@
+D:\JainChirag\Videos\.net Programming\Ass1\Ass1\bin\Debug\Ass1.exe.config
+D:\JainChirag\Videos\.net Programming\Ass1\Ass1\bin\Debug\Ass1.exe
+D:\JainChirag\Videos\.net Programming\Ass1\Ass1\bin\Debug\Ass1.pdb
+D:\JainChirag\Videos\.net Programming\Ass1\Ass1\obj\Debug\Ass1.csprojResolveAssemblyReference.cache
+D:\JainChirag\Videos\.net Programming\Ass1\Ass1\obj\Debug\Ass1.Class.resources
+D:\JainChirag\Videos\.net Programming\Ass1\Ass1\obj\Debug\Ass1.Course.resources
+D:\JainChirag\Videos\.net Programming\Ass1\Ass1\obj\Debug\Ass1.Form1.resources
+D:\JainChirag\Videos\.net Programming\Ass1\Ass1\obj\Debug\Ass1.Properties.Resources.resources
+D:\JainChirag\Videos\.net Programming\Ass1\Ass1\obj\Debug\Ass1.Student.resources
+D:\JainChirag\Videos\.net Programming\Ass1\Ass1\obj\Debug\Ass1.csproj.GenerateResource.Cache
+D:\JainChirag\Videos\.net Programming\Ass1\Ass1\obj\Debug\Ass1.exe
+D:\JainChirag\Videos\.net Programming\Ass1\Ass1\obj\Debug\Ass1.pdb
